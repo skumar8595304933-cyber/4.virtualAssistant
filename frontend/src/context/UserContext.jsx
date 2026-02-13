@@ -1,6 +1,4 @@
 import axios from 'axios'
-
-app.set("trust proxy", 1)
 import React, { createContext, useEffect, useState } from 'react'
 export const userDataContext=createContext()
 function UserContext({children}) {
