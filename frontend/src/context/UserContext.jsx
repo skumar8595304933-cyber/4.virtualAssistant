@@ -41,4 +41,4 @@ serverUrl,userData,setUserData,backendImage,setBackendImage,frontendImage,setFro
   )
 }
 
-export default UserContext
+export default UserContext;
